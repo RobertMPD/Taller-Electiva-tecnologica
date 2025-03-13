@@ -74,7 +74,7 @@ header nav a {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+    background-color: rgba(0, 0, 0, 0.5); 
     z-index: 1;
 }
 
@@ -92,14 +92,14 @@ header nav a {
     margin-bottom: 30px;
 }
 
-/* Sección de Introducción */
+/* Seccion de Introduccion */
 #introduccion {
     background-color: #f4f4f4;
     padding: 50px 0;
     text-align: center;
 }
 
-/* Sección de Tecnologías */
+/* Seccion de Tecnologias */
 #tecnologias {
     padding: 50px 0;
     text-align: center;
@@ -129,7 +129,7 @@ header nav a {
     margin-bottom: 10px;
 }
 
-/* Sección de Contacto */
+/* Seccion de Contacto */
 #contacto {
     background-color: #333;
     color: white;
